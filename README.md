@@ -35,4 +35,4 @@ Clone the repository:
 git clone https://github.com/<youruser>/bt-mac-spoof.git
 cd bt-mac-spoof
 chmod +x install-bt-spoof.sh
-sudo ./install-bt-spoof.sh --mac 50:E0:85:65:80:00
+sudo ./install-bt-spoof.sh --mac 70:E0:88:77:80:00
